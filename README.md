@@ -7,7 +7,7 @@
 - ![](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white) Stock App Backend Developer
 - ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) Main Skilled Language
 - ![](https://img.shields.io/badge/MATLAB-14354C?style=for-the-badge&logo=MATLAB&logoColor=white)
--  ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 -  
 
 <!---
