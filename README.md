@@ -2,6 +2,7 @@
 - 👀 I’m interested in Medical AI, Medical Physics, Calculating Science. 
 - 🌱 I’m Majoring in Radiologic Science.
 - 💞️ I’m looking to collaborate on everyone who wants to do with me.
+- ⚡ I'm a Full-Stack Developer, using React and Next.js to Frontend. 
 - ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) How to reach me? Email me yhm0215@yonsei.ac.kr
 - ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) AI Morphological Detection Developer 
 - ![](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white) Stock App Backend Developer
